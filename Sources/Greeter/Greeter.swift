@@ -5,3 +5,7 @@ struct Greeter {
 func SayHello() -> String {
     return "hi there"
 }
+
+struct Blah {
+    var ttt = "Hello blah"
+}
